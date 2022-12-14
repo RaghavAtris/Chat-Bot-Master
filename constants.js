@@ -16,7 +16,7 @@ const prompts = [
   ["i love you"],
   ["happy", "good", "fun", "wonderful", "fantastic", "cool"],
   ["bad", "bored", "tired"],
-  ["help me", "tell me story", "tell me joke"],
+  ["tell me joke", "joke"],
   ["ah", "yes", "ok", "okay", "nice"],
   ["bye", "good bye", "goodbye", "see you later"],
   ["what should i eat today"],
@@ -49,7 +49,7 @@ const replies = [
   ["I love you too", "Me too"],
   ["Have you ever felt bad?", "Glad to hear it"],
   ["Why?", "Why? You shouldn't!", "Try watching TV"],
-  ["What about?", "Once upon a time..."],
+  ["My friend was changing a tyre, when he dropped the car on his foot. Now he needs a toe","I just told my brother that i saw a peacock on the way to work. He asked, How do you know it was on its way to work?", "When does a joke becomes a joke becomes a'dad joke'. when it becomes apparent"],
   ["Tell me a story", "Tell me a joke", "Tell me about yourself"],
   ["Bye", "Goodbye", "See you later"],
   ["Sushi", "Pizza"],
@@ -57,7 +57,7 @@ const replies = [
   ["Great question"],
   ["That's ok","I understand","What do you want to talk about?"],
   ["Please say something :("],
-  ["Haha!","Good one!"]
+  ["Hehe!","Good one!"]
 ]
 
 // Random for any other user input
